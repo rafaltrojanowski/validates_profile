@@ -1,0 +1,6 @@
+require 'validates_profile/profile_validator'
+require 'validates_profile/github_validator'
+require 'validates_profile/twitter_validator'
+require 'validates_profile/facebook_validator'
+require 'validates_profile/stackoverflow_validator'
+require 'validates_profile/regular_expressions'

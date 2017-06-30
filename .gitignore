@@ -1,0 +1,9 @@
+coverage
+pkg
+rdoc
+test/tmp
+tmp
+.idea
+.DS_Store
+.rvmrc
+tags
